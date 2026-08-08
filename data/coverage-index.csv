@@ -1,0 +1,62 @@
+route,countries,km_analysed,usable_4g5g_pct,any_signal_pct,dead_zones,dead_zone_km,mountain_estimate,data_source,methodology_version,url
+Overland Track (Cradle Mountain–Lake St Clair),Australia,57,0,0,1,57,no,ACMA licence register,acma-rrl-sites-v1,https://trailsim.com/routes/overland-track
+Pacific Crest Trail — Washington (Bridge of the Gods–Manning Park),United States,815,10,24,31,584,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pct-washington
+John Muir Trail (JMT / Nüümü Poyo),United States,336,11,18,9,270,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/john-muir-trail
+Pacific Crest Trail — Sierra Nevada (Kennedy Meadows–Donner Pass),United States,715,16,25,20,514,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pct-sierra-nevada
+South Africa Garden Route (Garden Route Road Trip),South Africa,209,19,100,0,0,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/garden-route
+Lycian Way (Likya Yolu),Türkiye,411,24,84,5,67,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/lycian-way
+GR20 (Grande Randonnée 20 / Fra li Monti),France,184,24,100,0,0,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/gr20
+Continental Divide Trail (CDT),United States,4824,29,42,201,2465,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/continental-divide-trail
+Pacific Crest Trail — Northern California (Donner Pass–Oregon Border),United States,855,31,42,61,404,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pct-northern-california
+Wild Atlantic Way (WAW),Ireland,1402,33,34,16,925,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/wild-atlantic-way
+Pacific Crest Trail (PCT),United States,4221,34,45,166,2006,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pacific-crest-trail
+Colorado Trail (Denver–Durango),United States,767,36,49,36,328,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/colorado-trail
+Great Divide Mountain Bike Route (GDMBR),United States,3248,37,47,112,1585,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/great-divide-mountain-bike-route
+Tour du Mont Blanc (TMB),France · Italy · Switzerland,166,42,89,2,18,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/tour-du-mont-blanc
+EuroVelo 6 — Middle & Lower Danube (Vienna–Black Sea),Europe,1460,45,56,13,637,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/eurovelo-6-lower-danube
+Pacific Crest Trail — Oregon (California Border–Bridge of the Gods),United States,723,45,61,38,224,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pct-oregon
+Bibbulmun Track (Kalamunda–Albany),Australia,960,46,46,21,517,no,ACMA licence register,acma-rrl-sites-v1,https://trailsim.com/routes/bibbulmun-track
+"Arizona Trail (AZT, Mexico–Utah)",United States,1253,49,65,53,345,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/arizona-trail
+Alta Via 1 (AV1 / Dolomites High Route 1),Italy,118,50,92,1,9,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/alta-via-1
+EuroVelo 6 — Upper Danube (Basel–Vienna),Europe,918,52,59,10,379,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/eurovelo-6-upper-danube
+Walker’s Haute Route (Chamonix–Zermatt),France · Switzerland,209,52,73,3,57,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/walkers-haute-route
+New Zealand South Island Road Trip (South Island Loop / Te Waipounamu),New Zealand,2113,55,56,12,931,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/nz-south-island-road-trip
+Appalachian Trail — New England (Bear Mountain–Katahdin),United States,1179,59,69,49,278,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/appalachian-trail-new-england
+Pacific Crest Trail — Southern California (Campo–Kennedy Meadows),United States,1113,59,71,31,240,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pct-southern-california
+Appalachian Trail — Virginia (Damascus–Harpers Ferry),United States,880,61,82,19,121,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/appalachian-trail-virginia
+Iceland Ring Road (Route 1 / Þjóðvegur 1),Iceland,1276,62,67,14,418,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/iceland-ring-road
+EuroVelo 6 (EV6 / Atlantic–Black Sea Route),10 countries in Europe,3400,62,69,25,1040,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/eurovelo-6
+Appalachian Trail — South (Springer Mountain–Damascus),United States,740,62,82,13,64,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/appalachian-trail-south
+Utah Mighty 5 Road Trip (Zion–Bryce–Capitol Reef–Arches/Canyonlands),United States,566,63,72,17,141,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/utah-mighty-5
+Snowdonia Loop (Eryri),"Wales, United Kingdom",110,63,96,1,4,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/snowdonia-loop
+TransAmerica Bicycle Trail (ACA Route 76),United States,7163,64,72,200,1474,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/transamerica-bicycle-trail
+Appalachian Trail (AT),United States,3392,66,80,82,471,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/appalachian-trail
+Camino de Santiago — Camino del Norte (Northern Way),Spain,837,67,84,5,130,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/camino-del-norte
+Lake District Loop (Windermere–Keswick),United Kingdom,142,68,69,0,0,no,Ofcom drive tests,ofcom-drivetest-v1,https://trailsim.com/routes/lake-district-loop
+Camino de Santiago — Camino Francés (French Way),France · Spain,768,68,89,5,83,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/camino-de-santiago
+"Long Trail (Vermont, Massachusetts–Canada)",United States,401,69,86,7,30,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/long-trail
+Camino de Santiago — Camino Portugués Central (Portuguese Central Way),Portugal · Spain,245,72,97,1,7,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/camino-portugues-central
+West Highland Way (WHW),"Scotland, United Kingdom",153,80,84,2,24,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/west-highland-way
+Great Ocean Walk (Apollo Bay–Twelve Apostles),Australia,96,81,81,1,16,no,ACMA licence register,acma-rrl-sites-v1,https://trailsim.com/routes/great-ocean-walk
+Camino de Santiago — Camino Portugués Coastal (Portuguese Coastal Way),Portugal · Spain,272,82,98,1,7,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/camino-portugues-coastal
+Camino de Santiago — Vía de la Plata (Silver Way),Spain,705,83,93,3,47,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/via-de-la-plata
+"Pacific Coast Highway (California SR-1, San Francisco–Los Angeles)",United States,708,84,89,8,57,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/pacific-coast-highway
+"Ring of Kerry (N70 Loop, Killarney)",Ireland,174,85,85,1,26,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/ring-of-kerry
+Everest Base Camp Trek (EBC Trek),Nepal,54,86,100,0,0,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/everest-base-camp-trek
+"Romantic Road (Romantische Straße, Würzburg–Füssen)",Germany,329,88,90,2,32,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/romantic-road
+Great Ocean Road (B100),Australia,240,89,89,3,25,no,ACMA licence register,acma-rrl-sites-v1,https://trailsim.com/routes/great-ocean-road
+Columbia River Gorge & Mount Hood Loop (Portland),United States,284,90,100,0,0,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/columbia-gorge-mt-hood-loop
+North Coast 500 (NC500),"Scotland, United Kingdom",729,91,92,0,0,no,Ofcom drive tests,ofcom-drivetest-v1,https://trailsim.com/routes/north-coast-500
+Appalachian Trail — Mid-Atlantic (Harpers Ferry–Bear Mountain),United States,594,91,97,3,10,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/appalachian-trail-mid-atlantic
+Rota Vicentina — Fishermen's Trail (Trilho dos Pescadores),Portugal,222,95,96,1,8,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/rota-vicentina
+Olympic Peninsula Loop (US-101),United States,543,95,100,0,0,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/olympic-peninsula-loop
+EuroVelo 6 — France (Atlantic–Basel),Europe,1022,96,98,3,25,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/eurovelo-6-france
+Route 66 — Southern Plains (Oklahoma City–Albuquerque),United States,881,98,99,2,12,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/route-66-southern-plains
+Historic Route 66 (U.S. Route 66 / The Mother Road),United States,3471,100,100,3,14,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/route-66-drive
+Route 66 — Southwest (Albuquerque–Santa Monica),United States,1299,100,100,1,3,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/route-66-southwest
+"Amalfi Coast Drive (SS163, Sorrento–Salerno)",Italy,59,100,100,0,0,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/amalfi-coast-drive
+La Loire à Vélo — Châteaux de la Loire (Orléans–Nantes),France,366,100,100,0,0,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/loire-a-velo
+Kumano Kodo — Nakahechi Route (Imperial Route),Japan,36,100,100,0,0,yes,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/kumano-kodo-nakahechi
+Shimanami Kaido (Setouchi Shimanami Cycling Route),Japan,70,100,100,0,0,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/shimanami-kaido
+Route 66 — Midwest (Chicago–Oklahoma City),United States,1291,100,100,0,0,no,OpenCellID crowd-sourced towers,opencellid-radius-v1,https://trailsim.com/routes/route-66-midwest
+"Florida Keys Overseas Highway (US-1, Key Largo–Key West)",United States,159,100,100,0,0,no,FCC National Broadband Map,fcc-bdc-h3-v1,https://trailsim.com/routes/florida-keys-overseas-highway
