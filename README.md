@@ -1,7 +1,7 @@
 # TrailSim Coverage Index — open dataset
 
 Mobile network coverage along **61 famous hiking trails, cycling routes and road trips**
-(61,933 km analysed), modelled from public signal data and published by
+(47,448 km analysed), modelled from public signal data and published by
 [TrailSim](https://trailsim.com).
 
 - Interactive, always-current version: **https://trailsim.com/coverage-index**
